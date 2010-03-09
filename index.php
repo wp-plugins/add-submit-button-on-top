@@ -5,7 +5,6 @@ Plugin URI: http://wordpress.org/extend/plugins/add-submit-button-on-top/
 Description: Adds a 2nd Submit button on top of the page when editing your Admin Settings. This way you won't have to scroll all the way down to hit the submit button! The submit button will be added to the top of all Settings Menu pages, User Edit Page, Appearance Editor Page, and the Plugin Editor page.
 Author: Jonathan Marzullo
 Version: 1.1.0
-Author URI: http://www.papafresh.com/
 License: A "Slug" license name e.g. GPL2
 */
 /*  Copyright 2010  Jonathan Marzullo  (email : jonathan@papafresh.com)
