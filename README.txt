@@ -1,7 +1,7 @@
 === Add Submit Button On Top ===
 Contributors: Jonathan Marzullo
 Donate link: 
-Tags: admin, administration, submit, button, save, update, top, add
+Tags: admin, administration, submit, button, save, update, top, add, settings, panel, changes
 Requires at least: 2.6.0
 Stable tag: 2.0
 
@@ -27,3 +27,11 @@ Activate in plugins admin screen. No options available.
 
 = 1.1.0 =
 * Bug Fix: Fixed javascript on Appearance Editor and Plugin Editor Page, submit button was outside form tag
+
+== Upgrade Notice ==
+
+= 1.0 =
+First Release
+
+= 1.1.0 =
+Fixed javascript on Appearance Editor and Plugin Editor Page, submit button was outside form tag. Upgrade immediately.
