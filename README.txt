@@ -14,7 +14,7 @@ Settings Menu pages, User Edit Page, Appearance Editor Page, and the Plugin Edit
 
 == Installation ==
 
-Activate in plugins admin screen. No options available.
+Activate in plugins admin screen. No options available. Enjoy!
 
 == Screenshots ==
 
@@ -27,11 +27,3 @@ Activate in plugins admin screen. No options available.
 
 = 1.1.0 =
 * Bug Fix: Fixed javascript on Appearance Editor and Plugin Editor Page, submit button was outside form tag
-
-== Upgrade Notice ==
-
-= 1.0 =
-First Release
-
-= 1.1.0 =
-Fixed javascript on Appearance Editor and Plugin Editor Page, submit button was outside form tag.
