@@ -1,7 +1,7 @@
 === Add Submit Button On Top ===
 Contributors: Jonathan Marzullo
 Donate link: 
-Tags: admin, administration, submit, button, save, update, top, add, settings, panel, changes, second
+Tags: administration, admin, add, top, update, save, submit, button, changes, second, panel, settings
 Requires at least: 2.6.0
 Stable tag: 2.0
 
@@ -9,8 +9,8 @@ Adds a 2nd Submit button on top of the page when editing your Admin Settings.
 
 == Description ==
 Adds a 2nd Submit button on top of the page when editing your Admin Settings. This way you won't
-have to scroll all the way down to hit the submit button! **The 2nd Submit button will be added to the top of all 
-Settings Menu pages, User Edit Page, Appearance Editor Page, and the Plugin Editor page.**
+have to scroll all the way down to hit the submit button! **The Submit button will be added to the top of all 
+Settings Menu pages, User Edit Page, Appearance Editor Page, and the Plugin Editor page**.
 
 == Installation ==
 
@@ -20,6 +20,8 @@ Activate in plugins admin screen. No options available. Enjoy!
 
 1. screenshot-1.png
 2. screenshot-2.png
+3. screenshot-3.png
+4. screenshot-4.png
 
 == ChangeLog ==
 
