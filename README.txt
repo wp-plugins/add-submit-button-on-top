@@ -1,7 +1,7 @@
 === Add Submit Button On Top ===
 Contributors: Jonathan Marzullo
 Donate link: 
-Tags: admin, administration, submit, button, save, update, top, add, settings, panel, changes, 2nd, second
+Tags: admin, administration, submit, button, save, update, top, add, settings, panel, changes, second
 Requires at least: 2.6.0
 Stable tag: 2.0
 
