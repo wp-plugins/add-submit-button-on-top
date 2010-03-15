@@ -1,7 +1,7 @@
 === Add Submit Button On Top ===
 Contributors: Jonathan Marzullo
 Donate link: 
-Tags: administration, admin, add, top, update, save, submit, button, changes, second, panel, settings
+Tags: administration, admin, add, top, update, save, submit, button, changes, second, panel, settings, options, form, above
 Requires at least: 2.6.0
 Stable tag: 2.0
 
@@ -14,7 +14,11 @@ Settings Menu pages, User Edit Page, Appearance Editor Page, and the Plugin Edit
 
 == Installation ==
 
-Activate in plugins admin screen. No options available. Enjoy!
+* Upload the full directory into your wp-content/plugins directory
+* Activate in plugins admin screen. 
+
+No options available. Enjoy!
+
 
 == Screenshots ==
 
