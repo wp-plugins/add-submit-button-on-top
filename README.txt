@@ -1,7 +1,7 @@
 === Add Submit Button On Top ===
 Contributors: Jonathan Marzullo
 Donate link: 
-Tags: administration, admin, add, top, update, save, submit, button, changes, second, panel, settings, options, form, above
+Tags: administration, admin, add, top, update, save, submit, button, changes, second, panel, settings, options, form, above, scroll, down, editing, editor, page
 Requires at least: 2.6.0
 Stable tag: 2.0
 
@@ -13,22 +13,15 @@ have to scroll all the way down to hit the submit button! **The Submit button wi
 Settings Menu pages, User Edit Page, Appearance Editor Page, and the Plugin Editor page**.
 
 == Installation ==
-
-* Upload the full directory into your wp-content/plugins directory
-* Activate in plugins admin screen. 
-
-No options available. Enjoy!
-
+Upload the full directory into your wp-content/plugins directory. Activate in plugins admin screen. No options available. Enjoy!
 
 == Screenshots ==
-
 1. screenshot-1.png
 2. screenshot-2.png
 3. screenshot-3.png
 4. screenshot-4.png
 
 == ChangeLog ==
-
 = 1.0 = Initial release
 
 = 1.1.0 =
