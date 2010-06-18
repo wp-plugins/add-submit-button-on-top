@@ -3,7 +3,7 @@ Contributors: Jonathan Marzullo
 Donate link: 
 Tags: administration, admin, add, top, update, save, submit, button, changes, second, panel, settings, options, form, above, scroll, down, editing, editor, page
 Requires at least: 2.6.0
-Stable tag: 3.0
+Stable tag: 4.0
 
 Adds a 2nd Submit button on top of the page when editing your Admin Settings.
 
