@@ -33,3 +33,6 @@ No options available. Enjoy!
 
 = 1.2.0 =
 * Bug Fix: Fixed headers already sent issue. Updated for use with Wordpress 3.0.
+
+= 1.3.0 =
+* Bug Fix: Fixed syntex error in expression selector - added qoutes to attribute selector.
