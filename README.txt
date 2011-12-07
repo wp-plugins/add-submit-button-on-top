@@ -3,7 +3,7 @@ Contributors: Jonathan Marzullo
 Donate link: 
 Tags: administration, admin, add, top, update, save, submit, button, changes, second, panel, settings, options, form, above, scroll, down, editing, editor, page
 Requires at least: 2.6.0
-Stable tag: 4.0
+Stable tag: 5.0
 
 Adds a 2nd Submit button on top of the page when editing your Admin Settings.
 
@@ -35,4 +35,4 @@ No options available. Enjoy!
 * Bug Fix: Fixed headers already sent issue. Updated for use with Wordpress 3.0.
 
 = 1.3.0 =
-Bug Fix: Fixed syntex error in expression selector - added qoutes to attribute selector.
+Bug Fix: Fixed syntex error in expression selector - added quotes to attribute selector.
